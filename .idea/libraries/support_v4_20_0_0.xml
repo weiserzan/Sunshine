@@ -6,8 +6,12 @@
       <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
+<<<<<<< HEAD
     <SOURCES>
       <root url="jar://$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/20.0.0/support-v4-20.0.0-sources.jar!/" />
     </SOURCES>
+=======
+    <SOURCES />
+>>>>>>> 3c7987084ab4cfe5c08794c5fd1d095fa1e55d32
   </library>
 </component>
